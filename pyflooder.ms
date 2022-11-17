@@ -3,7 +3,7 @@
 # Recoded by : codex31
 # Cleaned by : igosad
 # Moved from python2 to python3
-# All copyrights to Squnity team
+# All copyrights to Squnity 
 
 import random
 import socket
